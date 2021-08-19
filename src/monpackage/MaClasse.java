@@ -1,4 +1,4 @@
-package fr.toto.titi;
+package monpackage;
 
 public class MaClasse {
 
